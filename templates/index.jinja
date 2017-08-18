@@ -1,0 +1,64 @@
+<doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+
+  <title>Animated Slack Emojis</title>
+  <style>
+
+    body {
+      text-align: center;
+      background-color: #EEEEEE;
+    }
+    .group {
+      display: list-item;
+      list-style: none;
+    }
+    .emoji {
+      display: inline-block;
+      text-align: center;
+			border: 2px solid black;
+			padding: 5px;
+      margin: 2px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Animated Slack Emojis</h1>
+  <h2>Guarenteed to delight and then annoy your co-workers!</h2>
+
+  <div id="content">
+    {% for letter in letters %}
+      <h2>{{letter.char}}</h2>
+      {% for emoji in letter.emojis %}
+        <span class="emoji">{{emoji.basename}}<br>
+          <img src="{{emoji.directory_name}}{{emoji.file}}" width={{emoji.width}} height={{emoji.height}} />
+        </span>
+      {% endfor %}
+    {% endfor %}
+  </div>
+
+  <script>
+   var site = window.location.hostname;
+   var gaId = 'UA-52576926-1'; // assume bradleybossard.github.io
+   switch (site) {
+     case 'bradleybossard.gitlab.io':
+       gaId = 'UA-52576926-3';
+       break;
+     case 'bradleybossard.com':
+       gaId = 'UA-52576926-4';
+       break;
+   }
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', gaId, 'auto');
+    ga('send', 'pageview');
+  </script>
+
+</body>
+</html>
