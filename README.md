@@ -1,9 +1,7 @@
 # slack-animated-emoji
 A collection of animated Slack emojis
 
-# Purposes
-
-  Creates browsable pages of all animated emojis in ./gifs directory
+# [Link](https://bradleybossard.github.io/slack-animated-emoji/)
 
 # Install
 
