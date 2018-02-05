@@ -1,0 +1,453 @@
+---
+title: curated slack pack by Bradley Bossard
+emojis:
+  - name: aliens
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/aliens.gif
+  - name: ant
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ant.gif
+  - name: archery
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/archery.gif
+  - name: astronaut
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/astronaut.gif
+  - name: avengers
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/avengers.gif
+  - name: aw_yeah
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/aw_yeah.gif
+  - name: baby_chick
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/baby_chick.gif
+  - name: backflip
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/backflip.gif
+  - name: balance
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/balance.gif
+  - name: bam
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bam.gif
+  - name: bart
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bart.gif
+  - name: bb8
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bb8.gif
+  - name: bert
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bert.gif
+  - name: betty_boop
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/betty_boop.gif
+  - name: bit_trip
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bit_trip.gif
+  - name: bobby
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bobby.gif
+  - name: bojack
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bojack.gif
+  - name: bored_parrot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bored_parrot.gif
+  - name: bow
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bow.gif
+  - name: bowie
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bowie.gif
+  - name: bowser
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bowser.gif
+  - name: boxing
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/boxing.gif
+  - name: bugs_bunny
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bugs_bunny.gif
+  - name: bugs
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bugs.gif
+  - name: burger
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/burger.gif
+  - name: burrito
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/burrito.gif
+  - name: bust_it
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/bust_it.gif
+  - name: buzz
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/buzz.gif
+  - name: carlton
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/carlton.gif
+  - name: cat
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/cat.gif
+  - name: classy_pbj_time
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/classy_pbj_time.gif
+  - name: coffee_parrot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/coffee_parrot.gif
+  - name: commander_keen
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/commander_keen.gif
+  - name: count_dracule
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/count_dracule.gif
+  - name: cow
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/cow.gif
+  - name: crab
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/crab.gif
+  - name: croc
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/croc.gif
+  - name: daenerys
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/daenerys.gif
+  - name: daffy
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/daffy.gif
+  - name: dalmatian_run
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dalmatian_run.gif
+  - name: dancing_pickle
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dancing_pickle.gif
+  - name: dancingmonkey
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dancingmonkey.gif
+  - name: darth_vader
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/darth_vader.gif
+  - name: digdug
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/digdug.gif
+  - name: dinos
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dinos.gif
+  - name: disco
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/disco.gif
+  - name: donald_trump
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/donald_trump.gif
+  - name: donkey
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/donkey.gif
+  - name: donut_parrot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/donut_parrot.gif
+  - name: donut
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/donut.gif
+  - name: double_dragon
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/double_dragon.gif
+  - name: dr_strange
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dr_strange.gif
+  - name: dracula
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dracula.gif
+  - name: dumpsterfire
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/dumpsterfire.gif
+  - name: egg
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/egg.gif
+  - name: elephant
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/elephant.gif
+  - name: elvis
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/elvis.gif
+  - name: emo
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/emo.gif
+  - name: ernie
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ernie.gif
+  - name: evil_dead
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/evil_dead.gif
+  - name: excite_bike
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/excite_bike.gif
+  - name: explode
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/explode.gif
+  - name: fallout_boy
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fallout_boy.gif
+  - name: fifth_element
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fifth_element.gif
+  - name: fight_club
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fight_club.gif
+  - name: fingerscrossed
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fingerscrossed.gif
+  - name: fireblob
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fireblob.gif
+  - name: fistbump
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fistbump.gif
+  - name: flanders
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/flanders.gif
+  - name: flying_money
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/flying_money.gif
+  - name: frankenstein
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/frankenstein.gif
+  - name: fred_flintstone
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/fred_flintstone.gif
+  - name: gangnam
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/gangnam.gif
+  - name: giggity
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/giggity.gif
+  - name: goat
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/goat.gif
+  - name: gorilla
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/gorilla.gif
+  - name: gottarun
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/gottarun.gif
+  - name: guzzle
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/guzzle.gif
+  - name: gymnast
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/gymnast.gif
+  - name: hack_and_slash
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hack_and_slash.gif
+  - name: hadouken
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hadouken.gif
+  - name: hammer_time
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hammer_time.gif
+  - name: hamster_dance
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hamster_dance.gif
+  - name: hank
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hank.gif
+  - name: happy_goat
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/happy_goat.gif
+  - name: headbang
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/headbang.gif
+  - name: headdesk
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/headdesk.gif
+  - name: hedgehog
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hedgehog.gif
+  - name: hero
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hero.gif
+  - name: hippo
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hippo.gif
+  - name: hipster
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hipster.gif
+  - name: hitchhiker
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hitchhiker.gif
+  - name: holdon
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/holdon.gif
+  - name: homer
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/homer.gif
+  - name: honey_badger
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/honey_badger.gif
+  - name: hungover
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/hungover.gif
+  - name: ivan_dixon
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ivan_dixon.gif
+  - name: joffrey
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/joffrey.gif
+  - name: jon_snow
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/jon_snow.gif
+  - name: jumping_alien
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/jumping_alien.gif
+  - name: jumping_donut
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/jumping_donut.gif
+  - name: jumping_through_hoops
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/jumping_through_hoops.gif
+  - name: kermit
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/kermit.gif
+  - name: knight
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/knight.gif
+  - name: kool-aid
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/kool-aid.gif
+  - name: kungfu
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/kungfu.gif
+  - name: lebowski_what_day
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/lebowski_what_day.gif
+  - name: lebowski
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/lebowski.gif
+  - name: leeky_cup
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/leeky_cup.gif
+  - name: leftshark
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/leftshark.gif
+  - name: letsplay
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/letsplay.gif
+  - name: life_aquatic
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/life_aquatic.gif
+  - name: link
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/link.gif
+  - name: lisa
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/lisa.gif
+  - name: looking
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/looking.gif
+  - name: maggie
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/maggie.gif
+  - name: magic
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/magic.gif
+  - name: manatee
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/manatee.gif
+  - name: marge
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/marge.gif
+  - name: mario_jump
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/mario_jump.gif
+  - name: mario
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/mario.gif
+  - name: meatwad
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/meatwad.gif
+  - name: megaman
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/megaman.gif
+  - name: meh
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/meh.gif
+  - name: merica
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/merica.gif
+  - name: mindblown
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/mindblown.gif
+  - name: minion
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/minion.gif
+  - name: mj
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/mj.gif
+  - name: moe
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/moe.gif
+  - name: mooning
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/mooning.gif
+  - name: morty
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/morty.gif
+  - name: ninja
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ninja.gif
+  - name: obama
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/obama.gif
+  - name: octopus
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/octopus.gif
+  - name: oktoberfest
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/oktoberfest.gif
+  - name: one_million_dollars
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/one_million_dollars.gif
+  - name: pancakes
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pancakes.gif
+  - name: parrot_sleep
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/parrot_sleep.gif
+  - name: party_trash_dove
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/party_trash_dove.gif
+  - name: party
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/party.gif
+  - name: peg
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/peg.gif
+  - name: penguin
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/penguin.gif
+  - name: pepper
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pepper.gif
+  - name: phone_home
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/phone_home.gif
+  - name: pikachu
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pikachu.gif
+  - name: ping_pong
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ping_pong.gif
+  - name: pink_panther
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pink_panther.gif
+  - name: pity_da_foo
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pity_da_foo.gif
+  - name: pizza
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pizza.gif
+  - name: pizzaspin
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pizzaspin.gif
+  - name: pony_patty_cake
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pony_patty_cake.gif
+  - name: poolparty
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/poolparty.gif
+  - name: poop
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/poop.gif
+  - name: popcorn_parrot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/popcorn_parrot.gif
+  - name: popeye
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/popeye.gif
+  - name: powerup
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/powerup.gif
+  - name: princess_peach
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/princess_peach.gif
+  - name: pulp_fiction
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/pulp_fiction.gif
+  - name: r2d2
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/r2d2.gif
+  - name: radar
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/radar.gif
+  - name: rain
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/rain.gif
+  - name: rainbow
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/rainbow.gif
+  - name: rearing
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/rearing.gif
+  - name: recursion
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/recursion.gif
+  - name: red
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/red.gif
+  - name: ren
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ren.gif
+  - name: robot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/robot.gif
+  - name: rock_out
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/rock_out.gif
+  - name: roger_rabbit
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/roger_rabbit.gif
+  - name: roll
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/roll.gif
+  - name: run_dive
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/run_dive.gif
+  - name: santa_rodeo
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/santa_rodeo.gif
+  - name: scarecrow
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/scarecrow.gif
+  - name: scarface
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/scarface.gif
+  - name: seal
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/seal.gif
+  - name: shark
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/shark.gif
+  - name: shaun_of_the_dead
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/shaun_of_the_dead.gif
+  - name: ship_it_parrot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/ship_it_parrot.gif
+  - name: shit_hits_fan
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/shit_hits_fan.gif
+  - name: shrek
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/shrek.gif
+  - name: skeleton_dance
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/skeleton_dance.gif
+  - name: slowclap
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/slowclap.gif
+  - name: snowman
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/snowman.gif
+  - name: sonic
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/sonic.gif
+  - name: soul_brother
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/soul_brother.gif
+  - name: soul_sister
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/soul_sister.gif
+  - name: space_ghost
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/space_ghost.gif
+  - name: spaniel
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/spaniel.gif
+  - name: spinning_record
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/spinning_record.gif
+  - name: stimpy
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/stimpy.gif
+  - name: stop
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/stop.gif
+  - name: stranger_things
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/stranger_things.gif
+  - name: sushi
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/sushi.gif
+  - name: swimming
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/swimming.gif
+  - name: taco_salad
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/taco_salad.gif
+  - name: taco_sombrero
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/taco_sombrero.gif
+  - name: taco
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/taco.gif
+  - name: tailspin
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/tailspin.gif
+  - name: teapot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/teapot.gif
+  - name: tiger
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/tiger.gif
+  - name: toad
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/toad.gif
+  - name: toast
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/toast.gif
+  - name: total_recall
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/total_recall.gif
+  - name: track_and_field
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/track_and_field.gif
+  - name: triplets_parrot
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/triplets_parrot.gif
+  - name: tumbleweed
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/tumbleweed.gif
+  - name: turkey
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/turkey.gif
+  - name: tvbinge
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/tvbinge.gif
+  - name: twirl
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/twirl.gif
+  - name: tyrion
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/tyrion.gif
+  - name: unicorn
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/unicorn.gif
+  - name: victory
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/victory.gif
+  - name: watermelon
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/watermelon.gif
+  - name: wiggum
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/wiggum.gif
+  - name: willy_wonka
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/willy_wonka.gif
+  - name: wolverine
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/wolverine.gif
+  - name: wonder_woman
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/wonder_woman.gif
+  - name: woody
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/woody.gif
+  - name: yay_fox
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/yay_fox.gif
+  - name: yay
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/yay.gif
+  - name: yeah_baby
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/yeah_baby.gif
+  - name: yoda
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/yoda.gif
+  - name: yoga
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/yoga.gif
+  - name: yoshi
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/yoshi.gif
+  - name: zombie
+    src: https://raw.githubusercontent.com/bradleybossard/slack-animated-emoji/master/gifs/zombie.gif
