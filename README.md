@@ -9,3 +9,8 @@ A collection of animated Slack emojis
     pip install -r requirements.txt  # install jinja and any other dependencies
     # Add new gifs to ./gifs directory
     python build.py
+
+# References
+
+* [emojipacks](https://github.com/lambtron/emojipacks)
+
