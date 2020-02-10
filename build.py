@@ -34,4 +34,4 @@ templateVars = { 'letters': letters }
 output_text = template.render(templateVars)
 
 with open("index.html", "w") as text_file:
-        text_file.write(''.join(output_text))
+    text_file.write(''.join(output_text))

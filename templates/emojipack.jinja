@@ -1,0 +1,6 @@
+title: {{bradleybossard-emoji-pack}}
+emojis:
+{% for emoji in emojis %}
+  - name: {{emoji.name}}
+  - src: https://bradleybossard.github.io/slack-animated-emoji/gifs/{{emoji.filename}}
+{% endfor %}
